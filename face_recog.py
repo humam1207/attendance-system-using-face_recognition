@@ -81,3 +81,5 @@ def recognize(fname):
 #cv2.imwrite("", img)
 # cv2.waitKey(0)
 # cv2.destroyAllWindows()
+
+#this line was added for github status change
