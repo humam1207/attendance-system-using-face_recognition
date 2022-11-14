@@ -78,3 +78,5 @@ cv2.imshow("Image", image_resized)
 #cv2.imwrite('uploads/output_'+ fname, image_resized)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
+
+#this line was added for github status change
